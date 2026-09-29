@@ -1,0 +1,1 @@
+{"name":"kontaxer-local-site","version":"1.0.0","private":true,"type":"module","scripts":{"serve":"node serve.mjs","test":"node tests/assistant.test.js && node tests/assistant-extra.test.js && node tests/eval/run.js --save --gate","kb:check":"node tests/kb-check.js"}}
